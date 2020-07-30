@@ -1,6 +1,11 @@
-# curso-git
+### Projeto Aprendendo Git
 
-1) Simulando a correcao de um erro na documentacao.
-2) Usando o closes para fechar o issues direto no momento do commit
-3) Passando no commit o closes nao esta funcionado
-4) Mais uma tentativa
+> resumo curto do projeto
+
+Descricao do projeto 
+
+![](linux.jpeg)
+
+
+https://i.ytimg.com/vi/It0N1txZydE/maxresdefault.jpg
+
